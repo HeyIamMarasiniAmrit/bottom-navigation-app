@@ -4,13 +4,40 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+# 🚀 Button Navigator App (Flutter)
 
-A few resources to get you started if this is your first Flutter project:
+A simple and clean Flutter application demonstrating **Button Navigation** between multiple screens.  
+This project is perfect for beginners learning navigation in Flutter using `Navigator.push()` and `Navigator.pop()`.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+- 📱 Multiple screens
+- 🧭 Navigate using buttons
+- 🔙 Back navigation
+- 🎨 Simple UI for beginners
+- ⚡ Built with Flutter & Dart
+
+---
+
+## 🛠️ Tech Stack
+- Flutter (3.x+)
+- Dart
+- Material UI
+
+---
+
+## 📂 Project Structure
+
+📸 Screenshots
+
+//
+
+🤝 Contributing
+
+Pull requests are welcome! If you want new features or improvements, feel free to open an issue.
+
+⭐ Show Your Support
+
+If this project helped you, don’t forget to star ⭐ the repo!
+
