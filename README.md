@@ -31,7 +31,7 @@ This project is perfect for beginners learning navigation in Flutter using `Navi
 
 📸 Screenshots
 
-//
+<img width="1446" height="742" alt="Image" src="https://github.com/user-attachments/assets/be4a207d-d641-471d-9d4d-883ca6633b57" />
 
 🤝 Contributing
 
